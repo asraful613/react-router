@@ -3,7 +3,7 @@ import './Header.css';
 const Header = () => {
     return (
         <div>
-            <h2>Navbar</h2>
+            
             <nav>
                
                 <NavLink to="/">Home</NavLink>
